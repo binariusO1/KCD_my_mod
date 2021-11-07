@@ -1,0 +1,1 @@
+x	x	item_id	x	x	x	weight	x	x	attack	defense	slash_att_mod	smash_att_mod	stab_att_mod	x	x	x	str_req	agi_req	charisma	max_status	x	x	x	price	x	x
